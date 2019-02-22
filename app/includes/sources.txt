@@ -1,0 +1,5 @@
+http://ar.islamway.net/feeds/main.rss
+http://ar.islamway.net/spotlights-archive
+http://ar.islamway.net/recitations/new
+http://ar.islamway.net/lessons/new
+http://ar.islamway.net/fatawa/new
