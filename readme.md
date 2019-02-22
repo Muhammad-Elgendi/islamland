@@ -1,3 +1,7 @@
+This site was deployed to https://islamland.net
+and it's UI was the first I ever make
+also it was my first time using Laravel framework
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)

@@ -1,0 +1,9 @@
+﻿ar.islamway.net/feeds/main.rss
+ar.islamway.net/feeds/recitations.rss
+ar.islamway.net/feeds/lessons.rss
+ar.islamway.net/feeds/articles.rss
+ar.islamway.net/feeds/fatawa.rss
+ar.islamway.net/feeds/videos.rss
+ar.islamway.net/feeds/anasheed.rss
+ar.islamway.net/feeds/books.rss
+ar.islamway.net/feeds/audiobooks.rss
